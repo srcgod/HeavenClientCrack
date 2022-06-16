@@ -1,0 +1,905 @@
+[16:33:40] [Client thread/INFO]: Setting user: HeavenUser540
+[16:33:43] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.Biome.getWaterColorMultiplier
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addDestroyEffects
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addHitEffects
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canCreatureSpawn
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canRenderInLayer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockRendering
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getBedDirection
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getExtendedState
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getFogColor
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightOpacity
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightValue
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getSoundType
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.hasTileEntity
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isAir
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBed
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBedFoot
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isSideSolid
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.state.IBlockProperties.getLightValue
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.ChunkCache.isSideSolid
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.canRiderInteract
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.captureDrops
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.capturedDrops
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRenderInPass
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRiderSit
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.item.Item.delegate
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getDurabilityForDisplay
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getRGBDurabilityForDisplay
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.isShield
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.onEntitySwing
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.shouldCauseReequipAnimation
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.showDurabilityBar
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.ItemOverrideList.handleItemState
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.ItemArmor.hasOverlay
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyConflictContext
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyModifierAndCode
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.getKeyModifier
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.ModelBlockDefinition.parseFromReader
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.shouldRenderHUD
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.renderHUDEffect
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.PotionEffect.isCurativeItem
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.canRenderBreaking
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.getRenderBoundingBox
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.hasFastRenderer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.shouldRenderInPass
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.preDraw
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.postDraw
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.countEntities
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.getPerWorldStorage
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.initCapabilities
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getCloudRenderer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSkyRenderer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getWeatherRenderer
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getLightmapColors
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[16:33:43] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[16:33:43] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[16:33:43] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:33:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:33:43] [Client thread/INFO]: [OptiFine] 
+[16:33:43] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_C6
+[16:33:43] [Client thread/INFO]: [OptiFine] Build: null
+[16:33:43] [Client thread/INFO]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+[16:33:43] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[16:33:43] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[16:33:43] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[16:33:43] [Client thread/INFO]: [OptiFine] OpenGL: Intel(R) UHD Graphics 620, version 4.6.0 - Build 26.20.100.7323, Intel
+[16:33:43] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[16:33:43] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[16:33:43] [Client thread/INFO]: [OptiFine] Maximum texture size: 8192x8192
+[16:33:43] [Thread-3/INFO]: [OptiFine] Checking for new version
+[16:33:43] [Client thread/INFO]: [Shaders] ShadersMod version: 2.4.12
+[16:33:43] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 - Build 26.20.100.7323
+[16:33:43] [Client thread/INFO]: [Shaders] Vendor:  Intel
+[16:33:43] [Client thread/INFO]: [Shaders] Renderer: Intel(R) UHD Graphics 620
+[16:33:43] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[16:33:43] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[16:33:43] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[16:33:43] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[16:33:43] [Client thread/INFO]: [Shaders] Load ShadersMod configuration.
+[16:33:43] [Client thread/INFO]: [Shaders] Save ShadersMod configuration.
+[16:33:43] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[16:33:44] [Thread-3/INFO]: [OptiFine] Version found: G5
+[16:33:44] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:33:44] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[16:33:44] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[16:33:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:33:45] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[16:33:45] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:33:45] [Thread-4/INFO]: OpenAL initialized.
+[16:33:45] [Sound Library Loader/INFO]: Sound engine started
+[16:33:47] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[16:33:47] [Client thread/INFO]: [OptiFine] Multitexture: false
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[16:33:47] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[16:33:47] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[16:33:50] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:33:53] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[16:33:54] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF5744555968148682557.tmp
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at nh.this(:38124)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:54] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF3667605952693799316.tmp
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at nh.this(:38124)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:54] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF1608701675024925497.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:38124)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF389092259789434107.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:4718)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF7261240214753482723.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:4718)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF9190640531638589758.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:4718)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF8693720173858813627.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:16698)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF3276610884237919809.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:16698)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:55] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF5997208305289887488.tmp
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at nh.this(:16698)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:55] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF327014715073820112.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27541)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF8556427130590362220.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27541)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF6834642067142509701.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27541)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF7019743583543837582.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:39631)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF4845854220909979505.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:39631)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF9030180133550100688.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:39631)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF2900427586976237014.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27292)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF2224208769489738222.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27292)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF911512059074592400.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:27292)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF395979377978662524.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:45350)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF1364868265461876041.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:45350)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:56] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF9211765655613779513.tmp
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at nh.this(:45350)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:56] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:57] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF23207683860272045.tmp
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at nh.this(:59497)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:57] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:58] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF3694136228113016048.tmp
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at nh.this(:59497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:58] [Client thread/INFO]: [STDERR]: java.awt.FontFormatException: Unsupported sfnt C:\Users\Imagine\AppData\Local\Temp\+~JF7923010642337875232.tmp
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.init(TrueTypeFont.java:523)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.TrueTypeFont.<init>(TrueTypeFont.java:191)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.font.SunFontManager.createFont2D(SunFontManager.java:2461)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.<init>(Font.java:615)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont0(Font.java:969)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.awt.Font.createFont(Font.java:877)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at xd.this(:26650)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at xd.<init>(:11250)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at nh.this(:59497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at ho.this(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at vn.this(:22561)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:8741)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at wja.this(:38691)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:644)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:459)
+[16:33:58] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[16:33:59] [Via-Mappingloader-0/INFO]: Loading 1.12 -> 1.13 mappings...
+[16:33:59] [Via-Mappingloader-1/INFO]: Loading 1.13 -> 1.13.2 mappings...
+[16:33:59] [Via-Mappingloader-2/INFO]: Loading 1.13.2 -> 1.14 mappings...
+[16:33:59] [Via-Mappingloader-3/INFO]: Loading 1.14 -> 1.15 mappings...
+[16:33:59] [Via-Mappingloader-4/INFO]: Loading 1.15 -> 1.16 mappings...
+[16:33:59] [Via-Mappingloader-5/INFO]: Loading 1.16 -> 1.16.2 mappings...
+[16:33:59] [Client thread/INFO]: Loading translations...
+[16:33:59] [Via-Mappingloader-6/INFO]: Loading 1.16.2 -> 1.17 mappings...
+[16:33:59] [Via-Mappingloader-0/INFO]: Loading block connection mappings ...
+[16:33:59] [Via-Mappingloader-1/INFO]: Loading 1.11 -> 1.10 mappings...
+[16:33:59] [Via-Mappingloader-7/INFO]: Loading 1.10 -> 1.9.4 mappings...
+[16:33:59] [Via-Mappingloader-4/INFO]: Loading 1.13.2 -> 1.13 mappings...
+[16:33:59] [Via-Mappingloader-5/ERROR]: Error loading dimension registry:
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: java.util.zip.ZipException: invalid literal/lengths set
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:164)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.io.DataInputStream.readByte(DataInputStream.java:265)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.minecraft.nbt.BinaryTagIO.readDataInput(BinaryTagIO.java:105)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.minecraft.nbt.BinaryTagIO.readCompressedInputStream(BinaryTagIO.java:93)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.protocols.protocol1_16_2to1_16_1.data.MappingData.loadExtras(MappingData.java:45)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.data.MappingDataBase.load(MappingDataBase.java:100)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.loadMappingData(AbstractProtocol.java:141)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.protocol.ProtocolManagerImpl$$Lambda$99/1296105015.run(Unknown Source)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:745)
+[16:33:59] [Via-Mappingloader-5/ERROR]: Error during mapping loading of Protocol1_16_2To1_16_1
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: java.util.concurrent.CompletionException: java.lang.NullPointerException
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1621)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:745)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: Caused by: java.lang.NullPointerException
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.protocols.protocol1_16_2to1_16_1.data.MappingData.loadExtras(MappingData.java:52)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.data.MappingDataBase.load(MappingDataBase.java:100)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.loadMappingData(AbstractProtocol.java:141)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at com.viaversion.viaversion.protocol.ProtocolManagerImpl$$Lambda$99/1296105015.run(Unknown Source)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618)
+[16:33:59] [Via-Mappingloader-5/INFO]: [STDERR]: 	... 3 more
+[16:33:59] [Via-Mappingloader-5/INFO]: Loading 1.14 -> 1.13.2 mappings...
+[16:34:00] [Via-Mappingloader-2/INFO]: Loading 1.13 -> 1.12 mappings...
+[16:34:00] [Via-Mappingloader-5/INFO]: Loading 1.15 -> 1.14 mappings...
+[16:34:00] [Via-Mappingloader-5/INFO]: Loading 1.16 -> 1.15 mappings...
+[16:34:00] [Via-Mappingloader-6/INFO]: Loading 1.16.2 -> 1.16 mappings...
+[16:34:00] [Via-Mappingloader-0/INFO]: Loading 1.17 -> 1.16.2 mappings...
+[16:34:00] [ViaMCP-0/INFO]: ViaVersion detected server version: 1.12.2 (340)
+[16:34:00] [ViaMCP-0/WARN]: This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[16:34:00] [ViaMCP-0/WARN]: You are running an outdated Java version, please consider updating it to at least Java 16 (your version is 1.8.0_51). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[16:34:00] [ViaMCP-0/WARN]: Could not check for updates, check your connection.
+[16:34:00] [ViaMCP-0/INFO]: Finished mapping loading, shutting down loader executor!
+[16:34:06] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[16:34:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:34:32] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:34:32] [Server thread/INFO]: Generating keypair
+[16:34:32] [Server thread/INFO]: Loaded 488 advancements
+[16:34:32] [Server thread/INFO]: Preparing start region for level 0
+[16:34:33] [Server thread/INFO]: Preparing spawn area: 15%
+[16:34:34] [Server thread/INFO]: Preparing spawn area: 88%
+[16:34:35] [Server thread/INFO]: Changing view distance to 8, from 10
+[16:34:37] [Server thread/INFO]: HeavenUser540[local:E:39106879] logged in with entity id 171 at (231.6782520769201, 66.1692659990571, -101.18745898693618)
+[16:34:37] [Server thread/INFO]: HeavenUser540 joined the game
+[16:34:38] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra G5§f
+[16:34:38] [Server thread/INFO]: Saving and pausing game...
+[16:34:38] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[16:34:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[16:34:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[16:59:53] [Client thread/INFO]: Stopping!
+[16:59:53] [Client thread/INFO]: SoundSystem shutting down...
+[16:59:53] [Server thread/INFO]: Stopping server
+[16:59:53] [Server thread/INFO]: Saving players
+[16:59:53] [Server thread/INFO]: Saving worlds
+[16:59:53] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[16:59:53] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[16:59:53] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[16:59:53] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
